@@ -9,4 +9,8 @@
 * [Registation Link](https://forms.gle/2nQLzFFpuweDg6sh6)
 * Ask them if any one have question in session, we have discussion after Completing the training
 
-
+|Session|PPTS|Notebooks|
+|-------|-----|-------|
+|Day-1|[]()|
+|Day-2|[]()|
+|Day-3|[]()|
